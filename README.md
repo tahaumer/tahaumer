@@ -16,7 +16,7 @@
   <p align="justify">
   Welcome to my GitHub Page!
 
-   Hi, I'm Taha Umar, a passionate developer always eager to learn and share knowledge. I've been programming for over two years, working with a variety of languages and technologies. As I continue to expand my skills, I enjoy helping others by teaching what I’ve learned along the way.
+   Hi, I'm Taha Umar, a passionate developer always eager to learn and share knowledge. I've been programming for over three years, working with a variety of languages and technologies. As I continue to expand my skills, I enjoy helping others by teaching what I’ve learned along the way.
   </p>
 </span>
 <img style="display: inline-block; height: 250px; width: 400px;" alt="Mehedi Islam Ripon" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" /> 
