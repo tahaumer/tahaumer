@@ -58,6 +58,10 @@
      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="mongoDB" />
       <br>MongoDB
    </td>
+   <td>
+     <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" width="48" height="48" alt="laravel" />
+      <br>Laravel
+   </td>
   </tr>
   <tr>
     <td align="center"  width="96">
