@@ -14,9 +14,11 @@
 <p></p>
 <span style="display: inline-block; width: 50%;">
   <p align="justify">
-  Welcome to my GitHub Page!
+Welcome to My GitHub Page!
 
-   Hi, I'm Taha Umar, a passionate developer always eager to learn and share knowledge. I've been programming for over three years, working with a variety of languages and technologies. As I continue to expand my skills, I enjoy helping others by teaching what I’ve learned along the way.
+I'm Taha Umar, a seasoned software developer with over three years of hands-on experience in a broad range of programming languages and technologies. My journey in the tech world has been driven by a passion for solving complex problems and a commitment to staying at the forefront of innovation. I strive to create efficient, scalable solutions, and I’m equally dedicated to sharing knowledge with the community. Through mentoring, teaching, and collaborating, I aim to empower others while continuing to grow as a professional.
+
+Let's connect, innovate, and make an impact together!
   </p>
 </span>
 <img style="display: inline-block; height: 250px; width: 400px;" alt="Mehedi Islam Ripon" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" /> 
