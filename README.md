@@ -1,4 +1,4 @@
-<h1>
+![image](https://github.com/user-attachments/assets/261c6739-c24d-4a44-92db-ce15e2ec69a9)<h1>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, I'm [Taha Umar!] <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 </h1>
 <div align="justify">
@@ -57,7 +57,7 @@ Let's connect, innovate, and make an impact together!
       <br>NodeJS
     </td>
     <td>
-     <img src="[https://raw.githubusercontent.com/docker-library/docs/c408469abbac35ad1e4a50a6618836420eb9502e/mysql/logo.png](https://camo.githubusercontent.com/3c3a5c5131382bd7cf36fe48618dfd2c254879588e61fcb15c61e569b373e051/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3734372f3739382f706e672d7472616e73706172656e742d6d7973716c2d6c6f676f2d6d7973716c2d64617461626173652d7765622d646576656c6f706d656e742d636f6d70757465722d736f6674776172652d646f6c7068696e2d6d6172696e652d6d616d6d616c2d616e696d616c732d746578742d7468756d626e61696c2e706e67)" width="58" height="58" alt="sql" />
+     <img src="https://github.com/user-attachments/assets/793e4474-657c-4b3b-a375-d5ef7a317417" width="58" height="58" alt="sql" />
       <br>MYSQL
    </td>
      <td>
