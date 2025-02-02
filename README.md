@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/261c6739-c24d-4a44-92db-ce15e2ec69a9)<h1>
+<h1>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, I'm [Taha Umar!] <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 </h1>
 <div align="justify">
