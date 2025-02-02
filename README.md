@@ -56,16 +56,21 @@ Let's connect, innovate, and make an impact together!
       </a>
       <br>NodeJS
     </td>
+    <td>
+     <img src="https://raw.githubusercontent.com/docker-library/docs/c408469abbac35ad1e4a50a6618836420eb9502e/mysql/logo.png" width="58" height="58" alt="sql" />
+      <br>MYSQL
+   </td>
      <td>
      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="mongoDB" />
       <br>MongoDB
    </td>
+   
+  </tr>
+  <tr>
    <td>
      <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" width="48" height="48" alt="laravel" />
       <br>Laravel
    </td>
-  </tr>
-  <tr>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="php" />
       <br>PHP
